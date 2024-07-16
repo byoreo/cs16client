@@ -1,0 +1,10 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Yerel Makine": [
+      "cl_dll\\out\\build\\x64-Debug",
+      "cl_dll\\out\\install\\x64-Debug",
+      "cl_dll\\out\\build\\x86-Release",
+      "cl_dll\\out\\install\\x86-Release"
+    ]
+  }
+}

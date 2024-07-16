@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "cl_dll"
+}
